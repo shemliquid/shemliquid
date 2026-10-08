@@ -8,7 +8,7 @@ Building software for real-world problems.
 
 <br />
 
-<img src="https://skillicons.dev/icons?i=ts,dart,html,css,cpp,react,nextjs,nodejs,python,git,github,vscode,flutter,sqlite,figma,md" />
+<img src="https://skillicons.dev/icons?i=java,js,python,nextjs,react,html,css,flutter,mongodb,postgres,mysql,git,github" />
 
 </div>
 
@@ -20,7 +20,7 @@ Building software for real-world problems.
 
 I am a software developer and product builder based in Ghana. Through **Shemliquid**, I turn inefficient, repetitive workflows into clear, usable software systems — products people can run every day.
 
-My focus is full-stack and product-oriented development: interactive web applications, desktop tools, and operational systems. I work heavily with **TypeScript**, **Dart**, **Next.js**, **React**, and related modern tooling — with additional work in **C++** where systems need it.
+My focus is full-stack and product-oriented development: interactive web applications, mobile apps, and operational systems. I work with **Java**, **JavaScript**, and **Python**, building with **Next.js**, **React**, **Flutter**, and **React Native**, and storing data with **MongoDB**, **PostgreSQL**, and **MySQL**.
 
 Through Shemliquid I build solutions around real friction — academic administration, examination workflows, drive / media operations, and other processes that start as manual, scattered work and end as structured digital systems.
 
@@ -48,11 +48,13 @@ I believe good software doesn't just look good. It makes difficult work simpler.
 
 <div align="center">
 
-### Languages I use most
+### Skills
 
-🟦 **TypeScript** `71.7%` &nbsp;&nbsp; 🟩 **Dart** `22.9%`  
-🟧 **HTML** `4%` &nbsp;&nbsp; 🟥 **C++** `0.7%` &nbsp;&nbsp; 🔴 **CMake** `0.5%`  
-🟪 **CSS** `0.1%` &nbsp;&nbsp; ⚪ **Other** `0.1%`
+**Programming** — Java · JavaScript · Python  
+**Web** — Next.js · React · HTML · CSS  
+**Mobile** — Flutter · React Native  
+**Database** — MongoDB · PostgreSQL · MySQL  
+**Tools** — Git · GitHub
 
 </div>
 
