@@ -48,7 +48,7 @@ I design and ship systems that replace scattered, manual work with structured di
 
 - Portfolio: *(coming soon)*  
 - GitHub: [github.com/shemliquid](https://github.com/shemliquid)  
-- Email: [shemliquid@gmail.com](mailto:shemliquid@gmail.com)  
+- Gmail: [shemliquid@gmail.com](mailto:shemliquid@gmail.com)  
 - WhatsApp: [+233 59 461 7422](https://wa.me/233594617422)
 
 ---

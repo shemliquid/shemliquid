@@ -25,7 +25,7 @@ export default function ContactPage() {
         <div className="mt-12 space-y-0 border-t border-border">
           <div className="border-b border-border py-8">
             <p className="font-mono text-xs tracking-[0.16em] text-foreground-subtle uppercase">
-              Email
+              Gmail
             </p>
             <a
               href="mailto:shemliquid@gmail.com"

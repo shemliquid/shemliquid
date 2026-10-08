@@ -35,7 +35,7 @@ export function Footer() {
             href="mailto:shemliquid@gmail.com"
             className="hover:text-foreground"
           >
-            Email
+            Gmail
           </a>
           <a
             href="https://wa.me/233594617422"
