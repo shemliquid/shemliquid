@@ -16,7 +16,7 @@ Building software for real-world problems.
 
 <div align="center">
 
-## I'm Shem Narh. I live in Ghana, where I build practical software.
+## I'm Shem Tetteh Narh Akwada. I live in Ghana, where I build practical software.
 
 I am a software developer and product builder based in Ghana. Through **Shemliquid**, I turn inefficient, repetitive workflows into clear, usable software systems — products people can run every day.
 
