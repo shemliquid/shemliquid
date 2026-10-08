@@ -19,7 +19,6 @@
   /* Lines & atmosphere */
   --border: rgba(232, 235, 240, 0.08);
   --border-strong: rgba(232, 235, 240, 0.14);
-  --grid-line: rgba(126, 182, 255, 0.045);
 
   /* Spacing rhythm */
   --section-y: clamp(5rem, 12vw, 8.5rem);
