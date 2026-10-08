@@ -93,13 +93,13 @@ body {
   }
 }
 
-@keyframes soft-pulse {
+@keyframes chaos-drift {
   0%,
   100% {
-    opacity: 0.45;
+    transform: translate3d(0, 0, 0);
   }
   50% {
-    opacity: 0.85;
+    transform: translate3d(0, -10px, 0);
   }
 }
 
@@ -119,8 +119,8 @@ body {
   animation: fade-up 0.9s cubic-bezier(0.22, 1, 0.36, 1) 0.36s both;
 }
 
-.chaos-glow {
-  animation: soft-pulse 6s ease-in-out infinite;
+.chaos-drift {
+  animation: chaos-drift 10s ease-in-out infinite;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -132,7 +132,7 @@ body {
   .animate-fade-up-delay-1,
   .animate-fade-up-delay-2,
   .animate-fade-up-delay-3,
-  .chaos-glow {
+  .chaos-drift {
     animation: none;
   }
 }

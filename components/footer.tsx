@@ -31,6 +31,20 @@ export function Footer() {
           >
             GitHub
           </a>
+          <a
+            href="mailto:shemliquid@gmail.com"
+            className="hover:text-foreground"
+          >
+            Email
+          </a>
+          <a
+            href="https://wa.me/233594617422"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:text-foreground"
+          >
+            WhatsApp
+          </a>
         </div>
       </div>
     </footer>
