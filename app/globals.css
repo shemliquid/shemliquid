@@ -38,9 +38,9 @@
   --color-accent-soft: var(--accent-soft);
   --color-border: var(--border);
   --color-border-strong: var(--border-strong);
-  --font-sans: var(--font-instrument);
-  --font-display: var(--font-syne);
-  --font-mono: var(--font-jetbrains);
+  --font-sans: "Instrument Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Syne", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
 }
 
 html {
@@ -50,7 +50,7 @@ html {
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-instrument), system-ui, sans-serif;
+  font-family: "Instrument Sans", ui-sans-serif, system-ui, sans-serif;
 }
 
 ::selection {
@@ -58,19 +58,14 @@ body {
   color: var(--foreground);
 }
 
-/* Atmosphere: radial wash + fine technical grid */
+/* Atmosphere: soft radial wash */
 .site-atmosphere {
   background-color: var(--background);
-  background-image:
-    radial-gradient(
-      ellipse 80% 50% at 50% -10%,
-      var(--accent-glow),
-      transparent 55%
-    ),
-    linear-gradient(var(--grid-line) 1px, transparent 1px),
-    linear-gradient(90deg, var(--grid-line) 1px, transparent 1px);
-  background-size: auto, 64px 64px, 64px 64px;
-  background-position: center top, center, center;
+  background-image: radial-gradient(
+    ellipse 80% 50% at 50% -10%,
+    var(--accent-glow),
+    transparent 55%
+  );
 }
 
 .section-pad {
