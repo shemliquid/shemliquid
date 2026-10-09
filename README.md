@@ -18,11 +18,11 @@ Building software for real-world problems.
 
 ## I'm Shem Tetteh Narh Akwada. I live in Ghana, where I build practical software.
 
-I am a software developer and product builder based in Ghana. Through **Shemliquid**, I turn inefficient, repetitive workflows into clear, usable software systems — products people can run every day.
+I am a software developer and product builder based in Ghana. Through **Shemliquid**, I turn inefficient, repetitive workflows into clear, usable software systems; products people can run every day.
 
 My focus is full-stack and product-oriented development: interactive web applications, mobile apps, and operational systems. I work with **Java**, **JavaScript**, and **Python**, building with **Next.js**, **React**, **Flutter**, and **React Native**, and storing data with **MongoDB**, **PostgreSQL**, and **MySQL**.
 
-Through Shemliquid I build solutions around real friction — academic administration, examination workflows, drive / media operations, and other processes that start as manual, scattered work and end as structured digital systems.
+Through Shemliquid I build solutions around real friction; academic administration, examination workflows, drive / media operations, and other processes that start as manual, scattered work and end as structured digital systems.
 
 I believe good software doesn't just look good. It makes difficult work simpler.
 
@@ -41,20 +41,6 @@ I believe good software doesn't just look good. It makes difficult work simpler.
 | **LecturerSuite** | Academic management without the manual work |
 | **DriveClone Manager** | Fast, organized, and verifiable drive copying |
 | **ExaminationManager** | Simpler examination administration |
-
-</div>
-
----
-
-<div align="center">
-
-### Skills
-
-**Programming** — Java · JavaScript · Python  
-**Web** — Next.js · React · HTML · CSS  
-**Mobile** — Flutter · React Native  
-**Database** — MongoDB · PostgreSQL · MySQL  
-**Tools** — Git · GitHub
 
 </div>
 
